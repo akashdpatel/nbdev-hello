@@ -147,5 +147,7 @@ checklink/cookies.txt
 .deb
 .pkg
 
+/nbdev39
+
 # Quarto
 .quarto
